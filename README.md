@@ -37,8 +37,8 @@ Save or show the images using plt.show() after applying each filter to visualize
 </br> 
 
 ## Program:
-### Developed By: Vikaash K S
-### Register Number: 212223240179
+### Developed By: SANJAI U
+### Register Number: 212224240145
 
 ### 1. Smoothing Filters
 
